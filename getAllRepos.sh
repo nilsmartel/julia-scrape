@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 # Receive raw html from githubs repos
 getPage() {
